@@ -79,3 +79,9 @@ docker ps
 *in another terminal
 
 python process.py
+
+*push image to docker hub
+
+docker tag pythonapi beginneradi/pythonapi:pythonapi
+
+docker push beginneradi/pythonapi:pythonapi
