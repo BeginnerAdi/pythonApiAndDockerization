@@ -1,6 +1,6 @@
 # pythonApiAndDockerization
 
-# Docker image link : 
+# Docker image pull command : docker pull beginneradi/pythonapi:pythonapi
 
 #A 
 
